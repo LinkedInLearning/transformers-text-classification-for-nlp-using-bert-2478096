@@ -17,3 +17,7 @@ This repository has branches for each of the videos in the course. You can ident
 [lil-course-url]: https://www.linkedin.com/learning/
 [lil-thumbnail-url]: http://
 
+## Instructor
+Jonathan Fernandes
+Check out my other courses on [LinkedIn Learning]: https://www.linkedin.com/learning/instructors/jonathan-fernandes
+
